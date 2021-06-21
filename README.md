@@ -7,11 +7,11 @@
 </div>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/lgolin/rocketseat-letmeask?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/lgolin/rocketseat-letmeask?color=#7e29ce">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/lgolin/rocketseat-letmeask?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/lgolin/rocketseat-letmeask?color=#7e29ce">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/lgolin/rocketseat-letmeask?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/lgolin/rocketseat-letmeask?color=#7e29ce">
 
 </p>
 
