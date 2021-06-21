@@ -1,46 +1,87 @@
-# Getting Started with Create React App
+<div align="center" id="top"> 
+  <!-- <img src="./.github/app.gif" alt="Letmeask" /> -->
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  &#xa0;
 
-## Available Scripts
+  <!-- <a href="https://letmeask.netlify.app">Demo</a> -->
+</div>
 
-In the project directory, you can run:
+<h1 align="center">Letmeask</h1>
 
-### `yarn start`
+<p align="center">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/lgolin/rocketseat-letmeask?color=56BEB8">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/lgolin/rocketseat-letmeask?color=56BEB8">
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/lgolin/rocketseat-letmeask?color=56BEB8">
 
-### `yarn test`
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/letmeask?color=56BEB8" /> -->
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{YOUR_GITHUB_USERNAME}}/letmeask?color=56BEB8" /> -->
 
-### `yarn build`
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{YOUR_GITHUB_USERNAME}}/letmeask?color=56BEB8" /> -->
+</p>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<h4 align="center"> 
+	🚧  Under construction...  🚧
+</h4> 
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<hr>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<p align="center">
+  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
+  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
+  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
+  <a href="https://github.com/lgolin" target="_blank">Author</a>
+</p>
 
-### `yarn eject`
+<br>
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## :dart: About ##
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Letmeask - App developed to help people select the best questions asked by your audience while live streaming your coding (or any other) skills! Project created during the Next Level Week Together event, hosted by [Rocketseat](https://rocketseat.com.br/)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## :sparkles: Features ##
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+:heavy_check_mark: Authentication;\
+:heavy_check_mark: Coming...
+<!-- :heavy_check_mark: Feature 3; -->
 
-## Learn More
+## :rocket: Technologies ##
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+The following tools were used in this project:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- [React](https://pt-br.reactjs.org/)
+- [Node.js](https://nodejs.org/en/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Firebase](https://firebase.google.com/)
+
+## :white_check_mark: Requirements ##
+
+Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+
+## :checkered_flag: Starting ##
+
+```bash
+# Clone this project
+$ git clone https://github.com/MatheusChein/letmeask-React.git
+
+# Access
+$ cd letmeask-React
+
+# Install dependencies
+$ yarn
+
+# Run the project
+$ yarn start
+
+# The server will initialize in the <http://localhost:3000>
+```
+
+Made with :heart: by <a href="https://github.com/lgolin" target="_blank">Lola</a>
+
+&#xa0;
+
+<a href="#top">Back to top</a>
