@@ -15,7 +15,7 @@ https://firebase.google.com/docs/web/setup?hl=pt-BR
   Dia 02: #unidade
   Dia 03: #embuscadeevolução
   Dia 04: #legacy
-  Dia 05:
+  Dia 05: juntos no proximo nível
 
 # Repasse de props
 dentro de components > Buttons
