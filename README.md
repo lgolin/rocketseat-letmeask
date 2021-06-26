@@ -1,19 +1,9 @@
-<div align="center" id="top"> 
-  <!-- <img src="./.github/app.gif" alt="Letmeask" /> -->
-
-  &#xa0;
-
-  <!-- <a href="https://letmeask.netlify.app">Demo</a> -->
-</div>
-
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/lgolin/rocketseat-letmeask?color=#7e29ce">
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/lgolin/rocketseat-letmeask?color=%23e559f9">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/lgolin/rocketseat-letmeask?color=#7e29ce">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/lgolin/rocketseat-letmeask?color=#7e29ce">
-
-</p>
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lgolin/rocketseat-letmeask?color=%23e559f9">
+  
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/lgolin/rocketseat-letmeask?color=%23e559f9">
 
 <h1 align="center">
     <img alt="Letmeask" title="Letmeask" />
@@ -28,7 +18,6 @@ This project was developed using the following technologies:
 - [React](https://reactjs.org)
 - [Firebase](https://firebase.google.com/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [Sass](https://sass-lang.com/)
 
 ## 🚀 Getting started
 
