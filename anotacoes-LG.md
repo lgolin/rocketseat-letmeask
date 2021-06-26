@@ -14,7 +14,7 @@ https://firebase.google.com/docs/web/setup?hl=pt-BR
   Dia 01: #together
   Dia 02: #unidade
   Dia 03: #embuscadeevolução
-  Dia 04:
+  Dia 04: #legacy
   Dia 05:
 
 # Repasse de props
